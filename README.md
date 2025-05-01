@@ -5,6 +5,9 @@ A responsive and interactive Body Mass Index (BMI) calculator built using **HTML
 ---
 ![image alt](https://github.com/raj-dey/BMI-Calculator/blob/fd449ab4e8dd2e0885c7020b4095bb572536f5e2/images/indeximg.png)
 
+Visite the site ---> https://raj-dey.github.io/BMI-Calculator/
+
+---
 ## 🚀 Features
 
 - 🔄 **Unit Switching**: Supports both **Metric (cm/kg)** and **Imperial (ft/in, st/lbs)** systems.
