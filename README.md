@@ -70,6 +70,7 @@ Visite the site ---> https://raj-dey.github.io/BMI-Calculator/
 ## ✍️ Authors
 
 - *** RAJ DEY
+- [GitHub Profile](https://github.com/raj-dey)
 
 ---
 
