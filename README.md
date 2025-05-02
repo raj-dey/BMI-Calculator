@@ -3,11 +3,6 @@
 A responsive and interactive Body Mass Index (BMI) calculator built using **HTML**, **CSS**, and **JavaScript**. This application helps users calculate their BMI using either **Metric** or **Imperial** units and offers educational content on healthy living and the limitations of BMI as a health indicator.
 
 ---
-![image alt](https://github.com/raj-dey/BMI-Calculator/blob/fd449ab4e8dd2e0885c7020b4095bb572536f5e2/images/indeximg.png)
-
-Visite the site ---> https://raj-dey.github.io/BMI-Calculator/
-
----
 ## 🚀 Features
 
 - 🔄 **Unit Switching**: Supports both **Metric (cm/kg)** and **Imperial (ft/in, st/lbs)** systems.
@@ -51,7 +46,9 @@ Visite the site ---> https://raj-dey.github.io/BMI-Calculator/
 
 ## 📸 Screenshots
 
-> *(Include UI screenshots here if applicable)*
+![image alt](https://github.com/raj-dey/BMI-Calculator/blob/fd449ab4e8dd2e0885c7020b4095bb572536f5e2/images/indeximg.png)
+
+Visite the site ---> https://raj-dey.github.io/BMI-Calculator/
 
 ---
 
@@ -72,7 +69,7 @@ Visite the site ---> https://raj-dey.github.io/BMI-Calculator/
 
 ## ✍️ Authors
 
-- **Team Raj & Vaishali**
+- *** RAJ DEY
 
 ---
 
